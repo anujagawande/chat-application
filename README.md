@@ -1,6 +1,6 @@
 Simple Python Chat Application 
 
-~Supports multiple clients~
+Supports multiple clients
 
 Prerequisites:
 
